@@ -1,0 +1,98 @@
+html{
+background:brown;
+max-height:900 px;
+max-length:1920 px;
+min-width: 23 px;
+min-height: 23 px;
+}
+
+body{
+color:blue;
+background:f47721;
+text-align: center;
+}
+head{
+color:7d3f98;
+background:black;
+}
+
+
+h5{
+margin:30%;
+color:yellow;
+
+}
+button{
+ background:cream;
+}
+a{
+    
+color:black;
+background:white;
+}
+input{
+    background-color:wheat;
+    color: black;
+}
+h6{
+color:green;
+
+position:center;
+}
+h3{color:indianred;
+text-align: center;
+ word-spacing: 33px;
+
+}
+table{
+    color:read;
+    background:green;
+   position:center;
+    align-items: center;
+    margin-left: 20%;
+margin-right: 20%;
+border-top: 20%;
+bottom: 30%;
+}
+fieldset{
+    color: chartreuse;
+     background:darkmagenta;
+    position:center;
+    align-items: center;
+    margin-left: 20%;
+margin-right: 20%;
+border-top: 20%;
+bottom: 30%;
+
+}
+h4{
+ color:black;
+
+    text-align:center;
+}
+h1{
+
+    text-align:center;
+}
+div{
+    color:goldenrod;
+    text-align:center;
+    
+    
+    background-color:green;
+    font-style: oblique;
+    font-variant-caps: all-petite-caps;
+    font-size:100 px;
+    grid-template-columns: 100cm;
+    height: 40 px;
+    position:center;
+    border-bottom-color: black;
+    
+}
+h2{
+    text-align: center;
+    
+}
+a.mya{
+    text-align: center;
+}
